@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87677589533",
+    "project_id": "shoppingcart-27c1a",
+    "storage_bucket": "shoppingcart-27c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87677589533:android:602a1958a9b7ba68500ef4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87677589533-c1gl3eh5jko3ncbfk1cjb4gf2v3n11t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_BP51KRVew-57UO6U9aWNNOO8glDRPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87677589533-c1gl3eh5jko3ncbfk1cjb4gf2v3n11t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
