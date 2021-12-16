@@ -19,11 +19,11 @@ Future<void> main() async {
       statusBarIconBrightness: Brightness.light,
     ),
   );
-  runApp(ShoppingApp());
+  runApp(EbizzShop());
 }
 
-class ShoppingApp extends StatelessWidget {
-  const ShoppingApp({Key key}) : super(key: key);
+class EbizzShop extends StatelessWidget {
+  const EbizzShop({Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
