@@ -70,15 +70,6 @@ class HomePage extends StatelessWidget {
               ),
             ],
           ),
-          IconButton(
-            onPressed: () {
-              firebaseController.signout();
-            },
-            tooltip: "Logout",
-            icon: Icon(
-              Icons.login_outlined,
-            ),
-          ),
         ],
       ),
       body: SingleChildScrollView(
